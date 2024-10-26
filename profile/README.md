@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+# .github
+
+# Bienvenido a la organización Control-T
+
+Esta es la página principal de nuestra organización. Aquí encontrarás proyectos importantes y recursos clave.
+
+
+# Mapeo de puertos 
+
+- ms-regional     -> :3001
+- ms-aereopuerto  -> :3002
+- ms-dependencia  -> :3003
+- ms-funcionario  -> :3004
+- ms-programacion -> :3005
+
 <!--
 
 **Here are some ideas to get you started:**
