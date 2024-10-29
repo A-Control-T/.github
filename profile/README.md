@@ -9,11 +9,12 @@ Esta es la página principal de nuestra organización. Aquí encontrarás proyec
 
 # Mapeo de puertos 
 
-- ms-regional     -> :3001
-- ms-aereopuerto  -> :3002
-- ms-dependencia  -> :3003
-- ms-funcionario  -> :3004
-- ms-programacion -> :3005
+- ms-regional       -> :3001
+- ms-aereopuerto    -> :3002
+- ms-dependencia    -> :3003
+- ms-funcionario    -> :3004
+- ms-programacion   -> :3005
+- ms-turno          -> :3006
 
 <!--
 
