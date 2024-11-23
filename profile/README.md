@@ -17,6 +17,7 @@ Esta es la página principal de nuestra organización. Aquí encontrarás proyec
 - ms-turno          -> :3006
 - ms-peticion       -> :3007
 - ms-solicitud      -> :3008
+- ms-diario-posicion -> :3009
 <!--
 
 **Here are some ideas to get you started:**
