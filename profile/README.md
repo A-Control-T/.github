@@ -18,6 +18,7 @@ Esta es la página principal de nuestra organización. Aquí encontrarás proyec
 - ms-peticion       -> :3007
 - ms-solicitud      -> :3008
 - ms-diario-posicion -> :3009
+- ms-auth           -> :3000
 <!--
 
 **Here are some ideas to get you started:**
