@@ -20,6 +20,7 @@ Esta es la página principal de nuestra organización. Aquí encontrarás proyec
 - ms-solicitud        -> :3008
 - ms-diario-posicion  -> :3009
 - ms-llamado-atencion -> :3010
+- ms-diario-senal     -> :3011
 <!--
 
 **Here are some ideas to get you started:**
